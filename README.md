@@ -19,6 +19,9 @@ Files:
 -Saximus.h
 -Saximus.cpp
 
+Link to Thesis:
+https://digitalcommons.bard.edu/sr-theses/966/
+
 Thesis Abstract: 
 
 Details on the design, construction plan, and analyses of the Saximus project will be discussed throughout this thesis. The Saximus is a saxophone-playing robot designed with lip, tongue, and finger mechanisms as well as an adjustable base, oral cavity, and air supply. In the design, the tongue, lip, and finger mechanisms are controlled via an Arduino by utilizing two servomotors and 11 solenoids. All appropriate analyses for selecting components to build the robot were completed to ensure that all motors and solenoids provide the forces necessary for their purposes, and to ensure that supports built to hold them will endure the entirety of the project. Each component is also able to meet the speed requirements necessary to play the instrument correctly. 
