@@ -15,9 +15,7 @@ Notes:
 -I learned the programming/electronics for this during Christmas break. It still took me some time throughout the spring semester to finalize the code while we obtained the necesssary electromechanical and microprocessor components. 
 -Finding a method and material for the lips took up quite some time. If I could make changes to what I had done, I would have spent more time on this piece in order to have more time to do testing and make improvements. 
 
-Files:
--Saximus.h
--Saximus.cpp
+Files: Saximus.h, Saximus.cpp
 
 Link to Thesis:
 https://digitalcommons.bard.edu/sr-theses/966/
