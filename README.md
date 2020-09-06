@@ -1,4 +1,4 @@
-# Saximus
+# The Saximus
 
 This repository contains the scripts utilized in the creation of my senior design project, Saximus: The Saxophone Playing Robot.
 
