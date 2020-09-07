@@ -4,7 +4,8 @@ This repository contains the scripts utilized in the creation of my senior desig
 
 The code here was used for the following:
 1. To control the electromechanical components used for button pressing and tongue-simulation.
-2. To put together the logic required to make playing a song feasible. The logic is as follows:
+2. To put together the logic required to make playing a song feasible. 
+The logic is as follows:
 -Define functions and variables for notes that can be played, i.e. a G or high A on the alto saxophone. This would include things like which solenoids required pressing on buttons and for how long.
 -Define when a "tongue", in this case a small servomotor, would be used to simulate the tongue actions of a person.
 -Define songs according to the functions created for notes. Having defined the notes in the script, this step then required translating sheet music to the functions in the script and their designated length of playing. 
